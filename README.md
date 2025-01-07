@@ -29,6 +29,9 @@ Simon Game <br/>
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ManojParkale](https://github.com/ManojParkale/Simon-Game). Thanks!
 <br/>
 
+##Description:
+The Simon game is an electronic memory challenge where players replicate an increasing sequence of lights and sounds by pressing colored buttons in the correct order.
+
 ## Built With
 
 - JavaScript
