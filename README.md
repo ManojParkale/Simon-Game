@@ -2,7 +2,7 @@
 Simon Game <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./drum-kit.png" />
+  <img alt="Demo" src="./simon-game.png" />
 </div>
 
 <br/>
